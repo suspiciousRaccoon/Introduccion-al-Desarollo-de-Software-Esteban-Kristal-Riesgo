@@ -1,0 +1,28 @@
+.pokemon-grid {
+	display: grid;
+	gap: 1em;
+	grid-template-columns: auto auto auto auto;
+	max-width: 1536px;
+	width: 100%;
+}
+
+.container h4 {
+	margin: 0;
+}
+
+@media (width <= 960px) {
+	.pokemon-grid {
+		grid-template-columns: auto auto auto;
+	}
+}
+
+@media (width <= 720px) {
+	.pokemon-grid {
+		grid-template-columns: auto auto;
+	}
+}
+@media (width <= 512px) {
+	.pokemon-grid {
+		grid-template-columns: auto;
+	}
+}

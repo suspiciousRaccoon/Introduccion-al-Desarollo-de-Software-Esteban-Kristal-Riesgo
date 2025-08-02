@@ -1,0 +1,132 @@
+.bg {
+	background-color: var(--background);
+}
+
+.button-plus {
+	background-color: var(--green);
+	justify-content: center;
+	width: 100%;
+}
+
+.center-items {
+	display: flex;
+	place-content: center;
+	place-items: center;
+}
+
+.circle-hoverable {
+	border-radius: 100%;
+	box-shadow: 0 0 0.5rem var(--shadow) inset;
+	height: 1.75rem;
+	padding: 0;
+	width: 1.75rem;
+}
+
+.circle-hoverable:hover {
+	transform: scale(1.1);
+}
+
+.dm-invert {
+	filter: invert(var(--dm));
+}
+
+.element {
+	background-color: var(--element);
+	border-radius: 2rem;
+	box-shadow: 0 0 1rem var(--shadow) inset;
+	display: flex;
+	filter: drop-shadow(0 0 0.5rem var(--shadow));
+	padding: 1rem;
+}
+
+.hoverable {
+	/* inherited */
+	background-color: var(--element);
+	border: none;
+	border-radius: 1rem;
+	box-shadow: 0 0 0.5rem var(--shadow) inset;
+	color: var(--element-opposite);
+	font-family: 'DM Sans', Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	height: min-content;
+	padding: 0.5rem 1rem;
+	cursor: pointer;
+	text-align: center;
+}
+
+.hoverable:hover {
+	/* inherited */
+	box-shadow: 0 0 1rem var(--shine) inset;
+	filter: drop-shadow(0 0 0.5rem var(--shadow-dark-strong));
+	transform: scale(1.05);
+	z-index: 1;
+}
+
+img.img-icon {
+	width: 1.5rem;
+}
+
+img.pokemon-img {
+	image-rendering: pixelated;
+	filter: drop-shadow(0 0 1rem var(--shine));
+}
+
+.max-width {
+	width: 100%;
+}
+
+.max-height {
+	height: 100%;
+}
+
+.green,
+.green:hover {
+	background-color: #40d040ff;
+	--dm: 1;
+}
+
+.red,
+.red:hover {
+	background-color: var(--main);
+	--dm: 1;
+}
+
+span.inline {
+	align-items: center;
+	display: inline-flex;
+	gap: 0.5rem;
+	justify-content: center;
+
+	img {
+		width: 1.75rem;
+	}
+}
+
+.scatter {
+	flex-wrap: wrap;
+}
+
+.start {
+	align-items: start;
+}
+
+.ul-div {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.25em;
+	justify-content: center;
+}
+
+.vflex {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	gap: 0.5em;
+}
+
+.vflex-gap {
+	align-items: baseline;
+	display: flex;
+	flex-direction: column;
+	gap: 0.5em;
+}

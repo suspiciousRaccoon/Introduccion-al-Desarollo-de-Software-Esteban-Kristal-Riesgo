@@ -1,0 +1,18 @@
+meta {
+  name: create integrante
+  type: http
+  seq: 6
+}
+
+post {
+  url: {{host}}/api/equipos/1/integrantes
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+      "id_pokemon": 23,
+      "apodo": "Champion"
+  }
+}

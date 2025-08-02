@@ -1,0 +1,28 @@
+.typeahead-container {
+	position: relative;
+	width: 400px;
+}
+
+.dropdown {
+	position: absolute;
+	width: 100%;
+	max-height: 12rem;
+	overflow-y: auto;
+	background-color: var(--element);
+	border-radius: 0.5rem;
+	z-index: 1000;
+	box-shadow: 0 0 0.5rem var(--shadow);
+}
+
+.dropdown-item {
+	padding: 0.5rem;
+	cursor: pointer;
+}
+
+.dropdown-item:hover {
+	background-color: #ffffffff;
+}
+
+.dropdown-item:active {
+	background-color: #ffffffff;
+}

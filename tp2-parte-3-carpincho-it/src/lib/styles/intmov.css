@@ -1,0 +1,6 @@
+.sticky {
+	background-color: var(--green);
+	height: fit-content;
+	position: sticky;
+	top: 1rem;
+}

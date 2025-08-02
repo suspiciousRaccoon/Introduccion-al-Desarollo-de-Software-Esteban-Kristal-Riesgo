@@ -1,0 +1,50 @@
+table {
+	background-color: var(--main);
+	border: none;
+	border-radius: 1rem;
+	font-size: 0.75rem;
+	overflow: hidden;
+	padding: 0.1rem;
+	padding-block-end: 1rem;
+}
+
+caption {
+	caption-side: bottom;
+	font-weight: bold;
+	padding: 0.5rem;
+}
+
+thead,
+th {
+	background-color: var(--main);
+	font-size: 1rem;
+}
+
+tr {
+	border: 0 none;
+	background-color: var(--element);
+}
+
+tfoot {
+	background-color: rgb(228 240 245);
+}
+
+th,
+td {
+	padding: 0.5rem;
+	a {
+		background-color: transparent;
+	}
+}
+
+td:last-of-type {
+	text-align: center;
+}
+
+tfoot th {
+	text-align: right;
+}
+
+tfoot td {
+	font-weight: bold;
+}

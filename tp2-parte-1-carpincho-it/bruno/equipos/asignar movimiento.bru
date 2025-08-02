@@ -1,0 +1,17 @@
+meta {
+  name: asignar movimiento
+  type: http
+  seq: 9
+}
+
+post {
+  url: {{host}}/api/equipos/1/integrantes/1/movimientos
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+      "id_movimiento": 228
+  }
+}

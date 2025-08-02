@@ -1,0 +1,754 @@
+---------------------
+Pokemon: alakazam
+Altura: 150 centimetros
+Peso: 48 kilos
+
+Habilidades
+ * Sincronía
+ * Foco Interno
+ * Muro Mágico
+---------------------
+---------------------
+Pokemon: slowbro
+Altura: 160 centimetros
+Peso: 78 kilos
+
+Habilidades
+ * Despiste
+ * Ritmo Propio
+ * Regeneración
+---------------------
+---------------------
+Pokemon: hypno
+Altura: 160 centimetros
+Peso: 75 kilos
+
+Habilidades
+ * Insomnio
+ * Alerta
+ * Foco Interno
+---------------------
+---------------------
+Pokemon: exeggutor
+Altura: 200 centimetros
+Peso: 120 kilos
+
+Habilidades
+ * Clorofila
+ * Cosecha
+---------------------
+---------------------
+Pokemon: starmie
+Altura: 110 centimetros
+Peso: 80 kilos
+
+Habilidades
+ * Iluminación
+ * Cura Natural
+ * Cálculo Final
+---------------------
+---------------------
+Pokemon: mr-mime
+Altura: 130 centimetros
+Peso: 54 kilos
+
+Habilidades
+ * Insonorizar
+ * Filtro
+ * Experto
+---------------------
+---------------------
+Pokemon: jynx
+Altura: 140 centimetros
+Peso: 40 kilos
+
+Habilidades
+ * Despiste
+ * Alerta
+ * Piel Seca
+---------------------
+---------------------
+Pokemon: mewtwo
+Altura: 200 centimetros
+Peso: 122 kilos
+
+Habilidades
+ * Presión
+ * Nerviosismo
+---------------------
+---------------------
+Pokemon: mew
+Altura: 40 centimetros
+Peso: 4 kilos
+
+Habilidades
+ * Sincronía
+---------------------
+---------------------
+Pokemon: xatu
+Altura: 150 centimetros
+Peso: 15 kilos
+
+Habilidades
+ * Sincronía
+ * Madrugar
+ * Espejo Mágico
+---------------------
+---------------------
+Pokemon: espeon
+Altura: 90 centimetros
+Peso: 26 kilos
+
+Habilidades
+ * Sincronía
+ * Espejo Mágico
+---------------------
+---------------------
+Pokemon: slowking
+Altura: 200 centimetros
+Peso: 79 kilos
+
+Habilidades
+ * Despiste
+ * Ritmo Propio
+ * Regeneración
+---------------------
+---------------------
+Pokemon: girafarig
+Altura: 150 centimetros
+Peso: 41 kilos
+
+Habilidades
+ * Foco Interno
+ * Madrugar
+ * Herbívoro
+---------------------
+---------------------
+Pokemon: lugia
+Altura: 520 centimetros
+Peso: 216 kilos
+
+Habilidades
+ * Presión
+ * Multiescamas
+---------------------
+---------------------
+Pokemon: celebi
+Altura: 60 centimetros
+Peso: 5 kilos
+
+Habilidades
+ * Cura Natural
+---------------------
+---------------------
+Pokemon: gardevoir
+Altura: 160 centimetros
+Peso: 48 kilos
+
+Habilidades
+ * Sincronía
+ * Rastro
+ * Telepatía
+---------------------
+---------------------
+Pokemon: grumpig
+Altura: 90 centimetros
+Peso: 71 kilos
+
+Habilidades
+ * Sebo
+ * Ritmo Propio
+ * Gula
+---------------------
+---------------------
+Pokemon: lunatone
+Altura: 100 centimetros
+Peso: 168 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: solrock
+Altura: 120 centimetros
+Peso: 154 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: claydol
+Altura: 150 centimetros
+Peso: 108 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: chimecho
+Altura: 60 centimetros
+Peso: 1 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: metang
+Altura: 120 centimetros
+Peso: 202 kilos
+
+Habilidades
+ * Cuerpo Puro
+ * Metal Liviano
+---------------------
+---------------------
+Pokemon: metagross
+Altura: 160 centimetros
+Peso: 550 kilos
+
+Habilidades
+ * Cuerpo Puro
+ * Metal Liviano
+---------------------
+---------------------
+Pokemon: latias
+Altura: 140 centimetros
+Peso: 40 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: latios
+Altura: 200 centimetros
+Peso: 60 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: jirachi
+Altura: 30 centimetros
+Peso: 1 kilos
+
+Habilidades
+ * Dicha
+---------------------
+---------------------
+Pokemon: deoxys-normal
+Altura: 170 centimetros
+Peso: 60 kilos
+
+Habilidades
+ * Presión
+---------------------
+---------------------
+Pokemon: bronzong
+Altura: 130 centimetros
+Peso: 187 kilos
+
+Habilidades
+ * Levitación
+ * Ignífugo
+ * Metal Pesado
+---------------------
+---------------------
+Pokemon: gallade
+Altura: 160 centimetros
+Peso: 52 kilos
+
+Habilidades
+ * Impasible
+ * Justiciero
+---------------------
+---------------------
+Pokemon: uxie
+Altura: 30 centimetros
+Peso: 0 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: mesprit
+Altura: 30 centimetros
+Peso: 0 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: azelf
+Altura: 30 centimetros
+Peso: 0 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: cresselia
+Altura: 150 centimetros
+Peso: 85 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: victini
+Altura: 40 centimetros
+Peso: 4 kilos
+
+Habilidades
+ * Tinovictoria
+---------------------
+---------------------
+Pokemon: musharna
+Altura: 110 centimetros
+Peso: 60 kilos
+
+Habilidades
+ * Alerta
+ * Sincronía
+ * Telepatía
+---------------------
+---------------------
+Pokemon: swoobat
+Altura: 90 centimetros
+Peso: 10 kilos
+
+Habilidades
+ * Ignorante
+ * Zoquete
+ * Simple
+---------------------
+---------------------
+Pokemon: sigilyph
+Altura: 140 centimetros
+Peso: 14 kilos
+
+Habilidades
+ * Piel Milagro
+ * Muro Mágico
+ * Cromolente
+---------------------
+---------------------
+Pokemon: gothitelle
+Altura: 150 centimetros
+Peso: 44 kilos
+
+Habilidades
+ * Cacheo
+ * Tenacidad
+ * Sombra Trampa
+---------------------
+---------------------
+Pokemon: reuniclus
+Altura: 100 centimetros
+Peso: 20 kilos
+
+Habilidades
+ * Funda
+ * Muro Mágico
+ * Regeneración
+---------------------
+---------------------
+Pokemon: beheeyem
+Altura: 100 centimetros
+Peso: 34 kilos
+
+Habilidades
+ * Telepatía
+ * Sincronía
+ * Cálculo Final
+---------------------
+---------------------
+Pokemon: meloetta-aria
+Altura: 60 centimetros
+Peso: 6 kilos
+
+Habilidades
+ * Dicha
+---------------------
+---------------------
+Pokemon: delphox
+Altura: 150 centimetros
+Peso: 39 kilos
+
+Habilidades
+ * Mar Llamas
+ * Prestidigitador
+---------------------
+---------------------
+Pokemon: meowstic-male
+Altura: 60 centimetros
+Peso: 8 kilos
+
+Habilidades
+ * Vista Lince
+ * Allanamiento
+ * Bromista
+---------------------
+---------------------
+Pokemon: malamar
+Altura: 150 centimetros
+Peso: 47 kilos
+
+Habilidades
+ * Respondón
+ * Ventosas
+ * Allanamiento
+---------------------
+---------------------
+Pokemon: hoopa
+Altura: 50 centimetros
+Peso: 9 kilos
+
+Habilidades
+ * Prestidigitador
+---------------------
+---------------------
+Pokemon: oranguru
+Altura: 150 centimetros
+Peso: 76 kilos
+
+Habilidades
+ * Foco Interno
+ * Telepatía
+ * Simbiosis
+---------------------
+---------------------
+Pokemon: bruxish
+Altura: 90 centimetros
+Peso: 19 kilos
+
+Habilidades
+ * Cuerpo Vívido
+ * Mandíbula Fuerte
+ * Piel Milagro
+---------------------
+---------------------
+Pokemon: tapu-lele
+Altura: 120 centimetros
+Peso: 18 kilos
+
+Habilidades
+ * Psicogénesis
+ * Telepatía
+---------------------
+---------------------
+Pokemon: solgaleo
+Altura: 340 centimetros
+Peso: 230 kilos
+
+Habilidades
+ * Guardia Metálica
+---------------------
+---------------------
+Pokemon: lunala
+Altura: 400 centimetros
+Peso: 120 kilos
+
+Habilidades
+ * Guardia Espectro
+---------------------
+---------------------
+Pokemon: necrozma
+Altura: 240 centimetros
+Peso: 230 kilos
+
+Habilidades
+ * Armadura Prisma
+---------------------
+---------------------
+Pokemon: orbeetle
+Altura: 40 centimetros
+Peso: 40 kilos
+
+Habilidades
+ * Enjambre
+ * Cacheo
+ * Telepatía
+---------------------
+---------------------
+Pokemon: hatterene
+Altura: 210 centimetros
+Peso: 5 kilos
+
+Habilidades
+ * Alma Cura
+ * Anticipación
+ * Espejo Mágico
+---------------------
+---------------------
+Pokemon: mr-rime
+Altura: 150 centimetros
+Peso: 58 kilos
+
+Habilidades
+ * Tumbos
+ * Antibarrera
+ * Gélido
+---------------------
+---------------------
+Pokemon: indeedee-male
+Altura: 90 centimetros
+Peso: 28 kilos
+
+Habilidades
+ * Foco Interno
+ * Sincronía
+ * Psicogénesis
+---------------------
+---------------------
+Pokemon: calyrex
+Altura: 110 centimetros
+Peso: 7 kilos
+
+Habilidades
+ * Nerviosismo
+---------------------
+---------------------
+Pokemon: deoxys-attack
+Altura: 170 centimetros
+Peso: 60 kilos
+
+Habilidades
+ * Presión
+---------------------
+---------------------
+Pokemon: deoxys-defense
+Altura: 170 centimetros
+Peso: 60 kilos
+
+Habilidades
+ * Presión
+---------------------
+---------------------
+Pokemon: deoxys-speed
+Altura: 170 centimetros
+Peso: 60 kilos
+
+Habilidades
+ * Presión
+---------------------
+---------------------
+Pokemon: darmanitan-zen
+Altura: 130 centimetros
+Peso: 92 kilos
+
+Habilidades
+ * Potencia Bruta
+ * Modo Daruma
+---------------------
+---------------------
+Pokemon: meowstic-female
+Altura: 60 centimetros
+Peso: 8 kilos
+
+Habilidades
+ * Vista Lince
+ * Allanamiento
+ * Tenacidad
+---------------------
+---------------------
+Pokemon: alakazam-mega
+Altura: 120 centimetros
+Peso: 48 kilos
+
+Habilidades
+ * Rastro
+---------------------
+---------------------
+Pokemon: mewtwo-mega-x
+Altura: 230 centimetros
+Peso: 127 kilos
+
+Habilidades
+ * Impasible
+---------------------
+---------------------
+Pokemon: mewtwo-mega-y
+Altura: 150 centimetros
+Peso: 33 kilos
+
+Habilidades
+ * Insomnio
+---------------------
+---------------------
+Pokemon: gardevoir-mega
+Altura: 160 centimetros
+Peso: 48 kilos
+
+Habilidades
+ * Piel Feérica
+---------------------
+---------------------
+Pokemon: medicham-mega
+Altura: 130 centimetros
+Peso: 31 kilos
+
+Habilidades
+ * Energía Pura
+---------------------
+---------------------
+Pokemon: latias-mega
+Altura: 180 centimetros
+Peso: 52 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: latios-mega
+Altura: 230 centimetros
+Peso: 70 kilos
+
+Habilidades
+ * Levitación
+---------------------
+---------------------
+Pokemon: gallade-mega
+Altura: 160 centimetros
+Peso: 56 kilos
+
+Habilidades
+ * Foco Interno
+---------------------
+---------------------
+Pokemon: slowbro-mega
+Altura: 200 centimetros
+Peso: 120 kilos
+
+Habilidades
+ * Caparazón
+---------------------
+---------------------
+Pokemon: metagross-mega
+Altura: 250 centimetros
+Peso: 942 kilos
+
+Habilidades
+ * Garra Dura
+---------------------
+---------------------
+Pokemon: hoopa-unbound
+Altura: 650 centimetros
+Peso: 490 kilos
+
+Habilidades
+ * Prestidigitador
+---------------------
+---------------------
+Pokemon: raichu-alola
+Altura: 70 centimetros
+Peso: 21 kilos
+
+Habilidades
+ * Cola Surf
+---------------------
+---------------------
+Pokemon: oricorio-pau
+Altura: 60 centimetros
+Peso: 3 kilos
+
+Habilidades
+ * Pareja de Baile
+---------------------
+---------------------
+Pokemon: necrozma-dusk
+Altura: 380 centimetros
+Peso: 460 kilos
+
+Habilidades
+ * Armadura Prisma
+---------------------
+---------------------
+Pokemon: necrozma-dawn
+Altura: 420 centimetros
+Peso: 350 kilos
+
+Habilidades
+ * Armadura Prisma
+---------------------
+---------------------
+Pokemon: necrozma-ultra
+Altura: 750 centimetros
+Peso: 230 kilos
+
+Habilidades
+ * Fuerza Cerebral
+---------------------
+---------------------
+Pokemon: rapidash-galar
+Altura: 170 centimetros
+Peso: 80 kilos
+
+Habilidades
+ * Fuga
+ * Velo Pastel
+ * Anticipación
+---------------------
+---------------------
+Pokemon: slowbro-galar
+Altura: 160 centimetros
+Peso: 70 kilos
+
+Habilidades
+ * Mano Rápida
+ * Ritmo Propio
+ * Regeneración
+---------------------
+---------------------
+Pokemon: mr-mime-galar
+Altura: 140 centimetros
+Peso: 56 kilos
+
+Habilidades
+ * Espíritu Vital
+ * Antibarrera
+ * Gélido
+---------------------
+---------------------
+Pokemon: articuno-galar
+Altura: 170 centimetros
+Peso: 50 kilos
+
+Habilidades
+ * Tenacidad
+---------------------
+---------------------
+Pokemon: slowking-galar
+Altura: 180 centimetros
+Peso: 79 kilos
+
+Habilidades
+ * Medicina Extraña
+ * Ritmo Propio
+ * Regeneración
+---------------------
+---------------------
+Pokemon: indeedee-female
+Altura: 90 centimetros
+Peso: 28 kilos
+
+Habilidades
+ * Ritmo Propio
+ * Sincronía
+ * Psicogénesis
+---------------------
+---------------------
+Pokemon: calyrex-ice
+Altura: 240 centimetros
+Peso: 809 kilos
+
+Habilidades
+ * Unidad Ecuestre
+---------------------
+---------------------
+Pokemon: calyrex-shadow
+Altura: 240 centimetros
+Peso: 53 kilos
+
+Habilidades
+ * Unidad Ecuestre
+---------------------

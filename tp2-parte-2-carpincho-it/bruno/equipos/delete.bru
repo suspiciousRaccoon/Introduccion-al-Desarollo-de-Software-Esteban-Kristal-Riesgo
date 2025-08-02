@@ -1,0 +1,18 @@
+meta {
+  name: delete
+  type: http
+  seq: 5
+}
+
+delete {
+  url: {{host}}/api/equipos/
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+      "nombre": "Equipo Rocket",
+      "id_generacion": 1
+  }
+}

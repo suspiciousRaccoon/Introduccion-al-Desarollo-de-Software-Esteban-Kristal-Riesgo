@@ -1,0 +1,41 @@
+name: Prettier
+
+# This action works with pull requests and pushes
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - parte3
+
+permissions:
+  contents: write
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          # Make sure the actual branch is checked out when running on pull requests
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+
+      - name: Install Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20.x'
+
+      - name: Install Dependencies
+        run: npm i
+
+      - name: Format Project
+        run: npm run format
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Prettified code!
+          branch: ${{ github.head_ref }}

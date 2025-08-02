@@ -1,0 +1,64 @@
+.integrante-card {
+	justify-content: space-between;
+	width: 100%;
+
+	div {
+		a {
+			background-color: var(--background);
+		}
+
+		a:hover {
+			background-color: var(--element);
+		}
+
+		button {
+			height: 100%;
+		}
+	}
+
+	.aframe {
+		display: block;
+		height: 10em;
+		padding: 0;
+		width: 10em;
+
+		img.pokemon-img {
+			width: 10em;
+		}
+	}
+
+	.movimiento-container {
+		align-items: center;
+		display: flex;
+		flex-direction: column;
+		gap: 0.5em;
+		width: auto;
+
+		h3 {
+			height: auto;
+		}
+
+		div {
+			align-items: center;
+			display: flex;
+			flex-direction: column;
+			gap: 0.5rem;
+		}
+	}
+
+	.button-plus {
+		background-color: var(--green);
+		justify-content: center;
+		width: 100%;
+	}
+
+	a.max-height {
+		display: flex;
+		height: calc(100% - 1rem);
+	}
+
+	.options-integrante {
+		display: inline-flex;
+		gap: 0.5rem;
+	}
+}

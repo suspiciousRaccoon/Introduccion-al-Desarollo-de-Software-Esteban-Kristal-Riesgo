@@ -1,0 +1,19 @@
+meta {
+  name: update integrante
+  type: http
+  seq: 7
+}
+
+put {
+  url: {{host}}/api/equipos/1/integrantes/1
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+      "id_pokemon": 23,
+      "apodo": "Champion",
+      "movimientos": [228]
+  }
+}

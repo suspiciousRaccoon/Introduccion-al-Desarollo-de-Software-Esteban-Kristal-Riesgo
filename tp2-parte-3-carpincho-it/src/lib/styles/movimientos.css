@@ -1,0 +1,21 @@
+.ul-div {
+	display: flex;
+
+	a {
+		* {
+			margin: 0;
+		}
+
+		div {
+			display: flex;
+			flex-direction: column;
+			gap: 0.5rem;
+			text-align: start;
+		}
+	}
+
+	p,
+	p.element {
+		margin: 0;
+	}
+}

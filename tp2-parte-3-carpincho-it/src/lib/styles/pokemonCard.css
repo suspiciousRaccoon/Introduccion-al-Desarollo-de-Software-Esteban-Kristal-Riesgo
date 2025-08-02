@@ -1,0 +1,10 @@
+.pokemon-card {
+	align-items: center;
+	background-color: var(--element);
+	flex-direction: column;
+
+	div {
+		display: inline-flex;
+		gap: 0.5em;
+	}
+}

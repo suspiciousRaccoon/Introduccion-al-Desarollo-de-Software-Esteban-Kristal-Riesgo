@@ -1,0 +1,36 @@
+.horizontal-container {
+	border-radius: 1.5em;
+	display: grid;
+	gap: 0.5rem;
+	grid-template-columns: calc(90% - 0.5rem) 10%;
+	padding: 0.5em;
+	width: 100%;
+
+	.secondary-contents,
+	.equipo-pokemon-container {
+		display: flex;
+	}
+
+	.equipo-pokemon-container {
+		justify-content: space-evenly;
+		width: 100%;
+
+		img {
+			width: 5em;
+		}
+	}
+
+	.hoverable {
+		align-items: center;
+		display: flex;
+		height: auto;
+		justify-content: center;
+	}
+}
+
+@media (width <= 720px) {
+	equipo-pokemon-container {
+		display: none;
+		visibility: hidden;
+	}
+}

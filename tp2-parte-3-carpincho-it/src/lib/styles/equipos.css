@@ -1,0 +1,18 @@
+.equipo-holder {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	gap: 0.5em;
+	width: 100%;
+}
+a {
+	background-color: var(--background);
+}
+
+a:hover {
+	background-color: var(--element);
+}
+
+form#plus-integrante {
+	width: 100%;
+}

@@ -1,0 +1,4 @@
+Generic single-database configuration.
+
+First 17 Files: Tables (of which: 8 basic, 9 tweeners)
+Next 28 Files: Constraints/Unconstraints (of which: 4 static, 11 temporary pairs for N:M; therefore the first 15 create the constraints, the remaining 11 delete some)
